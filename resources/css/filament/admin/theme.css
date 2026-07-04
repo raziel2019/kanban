@@ -1,0 +1,6 @@
+@import '../../../../vendor/filament/filament/resources/css/theme.css';
+
+@source '../../../../app/Filament/**/*.php';
+@source '../../../../resources/views/**/*.blade.php';
+@source '../../../../vendor/relaticle/flowforge/resources/views/**/*.blade.php';
+@source '../../../../vendor/relaticle/flowforge/src/**/*.php';
